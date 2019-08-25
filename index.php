@@ -1,9 +1,9 @@
 <?php
 
 	// Load Header
-	require "header.php";
+	require "./assets/header.php";
 	
 	// Load Footer
-	require "footer.php";
+	require "./assets/footer.php";
 
 ?>
