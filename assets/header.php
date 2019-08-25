@@ -10,7 +10,11 @@
 <HTML lang="EN">
 
 	<HEAD>
-	
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="description" content="Haven Realms Panel & IDE">
+		<meta name="author" content="Randamonium NZ Ltd. & Haven Realms contributors">
+		<title>Haven Realms Control Panel</title>
 	</HEAD>
 	
 	<BODY>
