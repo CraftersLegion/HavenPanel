@@ -10,11 +10,21 @@
 <HTML lang="EN">
 
 	<HEAD>
+	
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<meta name="description" content="Haven Realms Panel & IDE">
-		<meta name="author" content="Randamonium NZ Ltd. & Haven Realms contributors">
-		<title>Haven Realms Control Panel</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="Paladium Server Website | Created by Randamonium">
+		<meta name="author" content="Randamonium">
+		
+		<title>Haven Panel & IDE</title>
+		
+		<!-- Bootstrap CSS -->
+		<link href="./assets/css/bootstrap.min.css" rel="stylesheet">
+		
+		<!-- Font Awesome CSS -->
+		<link href="/assets/css/font-awesome.min.css" rel="stylesheet">
+		
 	</HEAD>
 	
 	<BODY>
