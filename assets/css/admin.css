@@ -2,6 +2,10 @@ body {
   font-size: .875rem;
 }
 
+main {
+  background: #EAEAEA;
+}
+
 .feather {
   width: 16px;
   height: 16px;
@@ -29,6 +33,7 @@ body {
   padding-top: .5rem;
   overflow-x: hidden;
   overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+  margin-top: 50px;
 }
 
 @supports ((position: -webkit-sticky) or (position: sticky)) {
